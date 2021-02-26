@@ -47,11 +47,9 @@ body {
   background-size: cover;
   height: 668px;
 }
-
 .about {
   height: 250px;
 }
-
 .about h2 {
   margin-top: 30px;
 }
@@ -59,7 +57,6 @@ body {
   background-image: url("../assets/backgrounds/s_image.jpg");
   height: 280px;
 }
-
 .services h2 {
   position: relative;
   top: 30px;
@@ -81,13 +78,11 @@ figcaption {
   /*height: 650px;*/
   padding-bottom: 50px;
 }
-
 .contacts {
   background-image: url("../assets/backgrounds/c_image.jpg");
   background-size: cover;
   opacity: 0.82;
 }
-
 .contacts h1 {
   position: relative;
   top: 30px;
@@ -95,7 +90,6 @@ figcaption {
 .text {
   margin-bottom: 20px;
 }
-
 .contact-overlay {
   background-color: rgba(0, 0, 0, 0.7);
 }
@@ -116,7 +110,6 @@ figcaption {
 .name {
   margin-right: 5px;
 }
-
 .email {
   margin-right: 5px;
 }
@@ -135,7 +128,6 @@ figcaption {
   max-width: 100%;
   height: auto;
 }
-
 .project-img {
   visibility: hidden;
   position: absolute;
