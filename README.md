@@ -42,6 +42,10 @@ TODO: Write history
 
 TODO: Write credits
 
+## Known bugs
+
+mail chimp API is not functional at the moment
+
 ## Demo
 
 Here is a working live demo : https://lilianjerikamau.github.io/akonnames/
