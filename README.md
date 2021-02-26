@@ -20,7 +20,7 @@ No set up instructions at the moment
 html5
 css3
 Bootstrap 4
-Javascript
+jQuery
 
 ## Usage
 
@@ -48,7 +48,7 @@ Here is a working live demo : https://lilianjerikamau.github.io/akonnames/
 
 ## Contact
 
-You can follow me on github :https://github.com/lilianjerikamau
+If you have any question or contributions, please email me at [lilianjerikamau@gmail.com]
 
 ## License & copyright
 
