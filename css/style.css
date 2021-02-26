@@ -47,9 +47,11 @@ body {
   background-size: cover;
   height: 668px;
 }
+
 .about {
   height: 250px;
 }
+
 .about h2 {
   margin-top: 30px;
 }
@@ -57,6 +59,7 @@ body {
   background-image: url("../assets/backgrounds/s_image.jpg");
   height: 280px;
 }
+
 .services h2 {
   position: relative;
   top: 30px;
@@ -135,7 +138,7 @@ figcaption {
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
-  font-size: 50px;
+  font-size: 40px;
 }
 #portfolio img {
   max-width: 100%;
