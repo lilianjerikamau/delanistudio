@@ -110,6 +110,7 @@ figcaption {
 }
 .description {
   font-family: "Raleway", sans-serif;
+  margin: 10px;
 }
 .name {
   margin-right: 5px;
