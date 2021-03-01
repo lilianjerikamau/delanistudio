@@ -28,7 +28,7 @@ body {
 }
 .home {
   margin-top: 5px;
-  font-family: sans-serif;
+  /* font-family: sans-serif; */
 }
 .home-small {
   font-family: "Ubuntu Mono", monospace;
@@ -155,4 +155,7 @@ figcaption {
 }
 #portfolio {
   align-items: center;
+}
+@media (max-width: 750px) {
+  font-size: 3rem;
 }
